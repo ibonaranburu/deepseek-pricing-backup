@@ -2,6 +2,7 @@
 
 Offline backup of the DeepSeek API pricing page for classroom use.
 
+- **Live (GitHub Pages):** https://ibonaranburu.github.io/deepseek-pricing-backup/
 - **Source:** https://api-docs.deepseek.com/quick_start/pricing
 - **Captured:** 2026-11-04
 - **Scope:** This page only. Links to other pages (guides, API reference, etc.) are NOT included and will not work offline.
